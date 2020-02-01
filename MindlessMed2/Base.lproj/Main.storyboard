@@ -47,7 +47,7 @@
                                     <constraint firstAttribute="height" constant="361" id="LNd-0v-CBh"/>
                                 </constraints>
                                 <attributedString key="attributedText">
-                                    <fragment content="Mindless Meditation">
+                                    <fragment content="Press an Above Button to Begin">
                                         <attributes>
                                             <color key="NSBackgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                             <color key="NSColor" red="0.5019608736038208" green="0.50196081399917603" blue="0.50196081399917603" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
